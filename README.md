@@ -1,2 +1,6 @@
-# jupyter_show_image
-Zoomable images using plotly in a jupyter notebook
+# Zoomable Jupyter Images
+
+Zoomable images using plotly in a jupyter notebook.
+
+![demo](demo.gif)
+
