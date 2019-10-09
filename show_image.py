@@ -1,6 +1,10 @@
 import plotly.graph_objects as go
 from PIL import Image
 
+# Based on code from
+# https://plot.ly/python/images/
+
+
 def show_image(img, width=1024, height=None, toolbar=True):
     """ Displays zoomable image in Jupyter.  Aspect ratio is always
     preserved.
